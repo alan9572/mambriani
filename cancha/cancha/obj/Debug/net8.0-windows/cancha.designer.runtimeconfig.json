@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\alans\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\alans\\.nuget\\packages",
+      "C:\\Users\\Selene\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Selene\\.nuget\\packages",
       "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],
     "configProperties": {

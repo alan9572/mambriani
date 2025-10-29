@@ -11,7 +11,7 @@ namespace cancha
     internal class GestorConexion
     {
         private GestorConexion() {
-            conexion = new SqliteConnection("datasource= cancah.db");
+            conexion = new SqliteConnection("datasource= predio.db");
 
         }
         private static GestorConexion _instancia;

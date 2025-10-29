@@ -1,11 +1,11 @@
-﻿using System;
+﻿using Microsoft.Data.Sqlite;
+using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using cancha;
-using Microsoft.Data.Sqlite;
 
 namespace cancha
 {
@@ -17,7 +17,7 @@ namespace cancha
         protected int turnos;
         protected string nom_jugadores;
 
-    public void ActualizarBD() 
+        public void ActualizarBD()
         {
             string consulta = "UPDATE cancha SET deporte=@deporte, turno=@turno, cliente=@cliente, num_jugadores=@num_jugadores WHERE id_cancha=@id";
             List<SqliteParameter> parametros = new List<SqliteParameter>();
@@ -34,7 +34,7 @@ namespace cancha
             DataTable tabla = GestorConexion.Instancia.ConsultarBD(consulta, null);
             foreach (DataRow fila in tabla.Rows)
             {
-                Cancha nuevoObjeto= new Cancha();
+                Cancha nuevoObjeto = new Cancha();
                 nuevoObjeto.atributo1 = fila["columna1"].ToString();
                 nuevoObjeto.atributo1 = int.Parse(fila["columna2"].ToString());
                 lista.add(nuevoObjeto);
@@ -44,5 +44,4 @@ namespace cancha
         public static Cancha traeruno(int idAbuscar);
 
     }
-
 }
