@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cancha")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+589c1f3617508ad9ac35a9b73b0cc143f8514b55")]
 [assembly: System.Reflection.AssemblyProductAttribute("cancha")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cancha")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
