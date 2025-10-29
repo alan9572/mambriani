@@ -1,0 +1,9 @@
+C:\Users\alans\Documents\mambriani\cancha\cancha\obj\Debug\net8.0-windows\cancha.csproj.AssemblyReference.cache
+C:\Users\alans\Documents\mambriani\cancha\cancha\obj\Debug\net8.0-windows\cancha.Agregar_Turno.resources
+C:\Users\alans\Documents\mambriani\cancha\cancha\obj\Debug\net8.0-windows\cancha.Form1.resources
+C:\Users\alans\Documents\mambriani\cancha\cancha\obj\Debug\net8.0-windows\cancha.csproj.GenerateResource.cache
+C:\Users\alans\Documents\mambriani\cancha\cancha\obj\Debug\net8.0-windows\cancha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alans\Documents\mambriani\cancha\cancha\obj\Debug\net8.0-windows\cancha.AssemblyInfoInputs.cache
+C:\Users\alans\Documents\mambriani\cancha\cancha\obj\Debug\net8.0-windows\cancha.AssemblyInfo.cs
+C:\Users\alans\Documents\mambriani\cancha\cancha\obj\Debug\net8.0-windows\cancha.csproj.CoreCompileInputs.cache
+C:\Users\alans\Documents\mambriani\cancha\cancha\obj\Debug\net8.0-windows\cancha.sourcelink.json
