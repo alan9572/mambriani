@@ -3,48 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\alans\\Documents\\mambriani\\cancha\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|C:\\Users\\alans\\Documents\\mambriani\\cancha\\cancha\\agregar_empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|solutionrelative:cancha\\agregar_empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|C:\\Users\\alans\\Documents\\mambriani\\cancha\\cancha\\agregar_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|solutionrelative:cancha\\agregar_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|c:\\users\\alans\\documents\\mambriani\\cancha\\cancha\\agregar_cancha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|solutionrelative:cancha\\agregar_cancha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|c:\\users\\alans\\documents\\mambriani\\cancha\\cancha\\agregar_cancha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|solutionrelative:cancha\\agregar_cancha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|C:\\Users\\alans\\Documents\\mambriani\\cancha\\cancha\\agregar_turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|c:\\users\\alans\\documents\\mambriani\\cancha\\cancha\\agregar_turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|solutionrelative:cancha\\agregar_turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|C:\\Users\\alans\\Documents\\mambriani\\cancha\\cancha\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|solutionrelative:cancha\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|c:\\users\\alans\\documents\\mambriani\\cancha\\cancha\\turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|solutionrelative:cancha\\turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|c:\\users\\alans\\documents\\mambriani\\cancha\\cancha\\cancha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|solutionrelative:cancha\\cancha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|c:\\users\\alans\\documents\\mambriani\\cancha\\cancha\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|solutionrelative:cancha\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|c:\\users\\alans\\documents\\mambriani\\cancha\\cancha\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|solutionrelative:cancha\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|C:\\Users\\alans\\Documents\\mambriani\\cancha\\cancha\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|solutionrelative:cancha\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|C:\\Users\\alans\\Documents\\mambriani\\cancha\\cancha\\agregar_empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|solutionrelative:cancha\\agregar_empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|c:\\users\\alans\\documents\\mambriani\\cancha\\cancha\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|solutionrelative:cancha\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|c:\\users\\alans\\documents\\mambriani\\cancha\\cancha\\turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|solutionrelative:cancha\\turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|c:\\users\\alans\\documents\\mambriani\\cancha\\cancha\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|solutionrelative:cancha\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|C:\\Users\\alans\\Documents\\mambriani\\cancha\\cancha\\agregar_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|solutionrelative:cancha\\agregar_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|C:\\Users\\alans\\Documents\\mambriani\\cancha\\cancha\\agregar_cancha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|solutionrelative:cancha\\agregar_cancha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|c:\\users\\alans\\documents\\mambriani\\cancha\\cancha\\cancha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|solutionrelative:cancha\\cancha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|c:\\users\\alans\\documents\\mambriani\\cancha\\cancha\\gestorconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,11 +54,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\alans\\Documents\\mambriani\\cancha\\cancha\\Cliente.cs",
               "RelativeDocumentMoniker": "cancha\\Cliente.cs",
@@ -74,72 +70,57 @@
               "IsPinned": true
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Agregar_Cancha.cs",
-              "DocumentMoniker": "C:\\Users\\alans\\Documents\\mambriani\\cancha\\cancha\\Agregar_Cancha.cs",
-              "RelativeDocumentMoniker": "cancha\\Agregar_Cancha.cs",
-              "ToolTip": "C:\\Users\\alans\\Documents\\mambriani\\cancha\\cancha\\Agregar_Cancha.cs*",
-              "RelativeToolTip": "cancha\\Agregar_Cancha.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T23:44:43.526Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Agregar_Cancha.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\alans\\Documents\\mambriani\\cancha\\cancha\\Agregar_Cancha.cs",
               "RelativeDocumentMoniker": "cancha\\Agregar_Cancha.cs",
-              "ToolTip": "C:\\Users\\alans\\Documents\\mambriani\\cancha\\cancha\\Agregar_Cancha.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "cancha\\Agregar_Cancha.cs [Dise\u00F1o]*",
+              "ToolTip": "C:\\Users\\alans\\Documents\\mambriani\\cancha\\cancha\\Agregar_Cancha.cs [Dise\u00F1o]",
+              "RelativeToolTip": "cancha\\Agregar_Cancha.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T23:49:02.813Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-10-22T23:49:02.813Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Agregar_Empleado.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\alans\\Documents\\mambriani\\cancha\\cancha\\Agregar_Empleado.cs",
               "RelativeDocumentMoniker": "cancha\\Agregar_Empleado.cs",
               "ToolTip": "C:\\Users\\alans\\Documents\\mambriani\\cancha\\cancha\\Agregar_Empleado.cs [Dise\u00F1o]",
               "RelativeToolTip": "cancha\\Agregar_Empleado.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T23:48:03.198Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-10-22T23:48:03.198Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Agregar_Cliente.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\alans\\Documents\\mambriani\\cancha\\cancha\\Agregar_Cliente.cs",
               "RelativeDocumentMoniker": "cancha\\Agregar_Cliente.cs",
               "ToolTip": "C:\\Users\\alans\\Documents\\mambriani\\cancha\\cancha\\Agregar_Cliente.cs [Dise\u00F1o]",
               "RelativeToolTip": "cancha\\Agregar_Cliente.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T23:46:31.075Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-10-22T23:46:31.075Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Agregar_Turno.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\alans\\Documents\\mambriani\\cancha\\cancha\\Agregar_Turno.cs",
               "RelativeDocumentMoniker": "cancha\\Agregar_Turno.cs",
               "ToolTip": "C:\\Users\\alans\\Documents\\mambriani\\cancha\\cancha\\Agregar_Turno.cs [Dise\u00F1o]",
               "RelativeToolTip": "cancha\\Agregar_Turno.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T23:45:48.644Z"
+              "WhenOpened": "2025-10-22T23:45:48.644Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "Empleado.cs",
               "DocumentMoniker": "C:\\Users\\alans\\Documents\\mambriani\\cancha\\cancha\\Empleado.cs",
               "RelativeDocumentMoniker": "cancha\\Empleado.cs",
@@ -151,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Turno.cs",
               "DocumentMoniker": "C:\\Users\\alans\\Documents\\mambriani\\cancha\\cancha\\Turno.cs",
               "RelativeDocumentMoniker": "cancha\\Turno.cs",
@@ -163,20 +144,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\alans\\Documents\\mambriani\\cancha\\cancha\\Form1.cs",
               "RelativeDocumentMoniker": "cancha\\Form1.cs",
               "ToolTip": "C:\\Users\\alans\\Documents\\mambriani\\cancha\\cancha\\Form1.cs",
               "RelativeToolTip": "cancha\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-23T00:04:10.49Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\alans\\Documents\\mambriani\\cancha\\cancha\\Form1.cs",
+              "RelativeDocumentMoniker": "cancha\\Form1.cs",
+              "ToolTip": "C:\\Users\\alans\\Documents\\mambriani\\cancha\\cancha\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "cancha\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T23:45:39.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Cancha.cs",
               "DocumentMoniker": "C:\\Users\\alans\\Documents\\mambriani\\cancha\\cancha\\Cancha.cs",
               "RelativeDocumentMoniker": "cancha\\Cancha.cs",
@@ -188,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "GestorConexion.cs",
               "DocumentMoniker": "C:\\Users\\alans\\Documents\\mambriani\\cancha\\cancha\\GestorConexion.cs",
               "RelativeDocumentMoniker": "cancha\\GestorConexion.cs",
@@ -197,17 +189,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-23T00:30:51.806Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\alans\\Documents\\mambriani\\cancha\\cancha\\Form1.cs",
-              "RelativeDocumentMoniker": "cancha\\Form1.cs",
-              "ToolTip": "C:\\Users\\alans\\Documents\\mambriani\\cancha\\cancha\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "cancha\\Form1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T23:45:39.633Z"
             }
           ]
         }

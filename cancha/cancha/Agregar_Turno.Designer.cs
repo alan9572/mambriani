@@ -28,10 +28,16 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Agregar_Turno";
+            SuspendLayout();
+            // 
+            // Agregar_Turno
+            // 
+            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(930, 500);
+            Name = "Agregar_Turno";
+            Text = "Agregar_Turno";
+            ResumeLayout(false);
         }
 
         #endregion
