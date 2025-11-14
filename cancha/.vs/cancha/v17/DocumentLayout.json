@@ -3,32 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Selene\\Documents\\GitHub\\tpmambrinialanjere\\mambriani\\cancha\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|c:\\users\\selene\\documents\\github\\tpmambrinialanjere\\mambriani\\cancha\\cancha\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|solutionrelative:cancha\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|c:\\users\\selene\\documents\\github\\tpmambrinialanjere\\mambriani\\cancha\\cancha\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|solutionrelative:cancha\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|c:\\users\\selene\\documents\\github\\tpmambrinialanjere\\mambriani\\cancha\\cancha\\turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|solutionrelative:cancha\\turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|c:\\users\\selene\\documents\\github\\tpmambrinialanjere\\mambriani\\cancha\\cancha\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|solutionrelative:cancha\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|c:\\users\\selene\\documents\\github\\tpmambrinialanjere\\mambriani\\cancha\\cancha\\cancha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|solutionrelative:cancha\\cancha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|c:\\users\\selene\\documents\\github\\tpmambrinialanjere\\mambriani\\cancha\\cancha\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|solutionrelative:cancha\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|c:\\users\\selene\\documents\\github\\tpmambrinialanjere\\mambriani\\cancha\\cancha\\gestorconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|solutionrelative:cancha\\gestorconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|c:\\users\\selene\\documents\\github\\tpmambrinialanjere\\mambriani\\cancha\\cancha\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2698020-50F5-42EC-87AE-A6D5895F951D}|cancha\\cancha.csproj|solutionrelative:cancha\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,95 +22,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Selene\\Documents\\GitHub\\tpmambrinialanjere\\mambriani\\cancha\\cancha\\Cliente.cs",
+              "RelativeDocumentMoniker": "cancha\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Selene\\Documents\\GitHub\\tpmambrinialanjere\\mambriani\\cancha\\cancha\\Cliente.cs",
+              "RelativeToolTip": "cancha\\Cliente.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAqwC4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T00:06:15.481Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\Selene\\Documents\\GitHub\\tpmambrinialanjere\\mambriani\\cancha\\cancha\\Cliente.cs",
-              "RelativeDocumentMoniker": "cancha\\Cliente.cs",
-              "ToolTip": "C:\\Users\\Selene\\Documents\\GitHub\\tpmambrinialanjere\\mambriani\\cancha\\cancha\\Cliente.cs",
-              "RelativeToolTip": "cancha\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T23:34:15.058Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Turno.cs",
-              "DocumentMoniker": "C:\\Users\\Selene\\Documents\\GitHub\\tpmambrinialanjere\\mambriani\\cancha\\cancha\\Turno.cs",
-              "RelativeDocumentMoniker": "cancha\\Turno.cs",
-              "ToolTip": "C:\\Users\\Selene\\Documents\\GitHub\\tpmambrinialanjere\\mambriani\\cancha\\cancha\\Turno.cs",
-              "RelativeToolTip": "cancha\\Turno.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T23:33:45.635Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Empleado.cs",
-              "DocumentMoniker": "C:\\Users\\Selene\\Documents\\GitHub\\tpmambrinialanjere\\mambriani\\cancha\\cancha\\Empleado.cs",
-              "RelativeDocumentMoniker": "cancha\\Empleado.cs",
-              "ToolTip": "C:\\Users\\Selene\\Documents\\GitHub\\tpmambrinialanjere\\mambriani\\cancha\\cancha\\Empleado.cs",
-              "RelativeToolTip": "cancha\\Empleado.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T23:33:22.611Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Cancha.cs",
-              "DocumentMoniker": "C:\\Users\\Selene\\Documents\\GitHub\\tpmambrinialanjere\\mambriani\\cancha\\cancha\\Cancha.cs",
-              "RelativeDocumentMoniker": "cancha\\Cancha.cs",
-              "ToolTip": "C:\\Users\\Selene\\Documents\\GitHub\\tpmambrinialanjere\\mambriani\\cancha\\cancha\\Cancha.cs",
-              "RelativeToolTip": "cancha\\Cancha.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T23:28:35.907Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Selene\\Documents\\GitHub\\tpmambrinialanjere\\mambriani\\cancha\\cancha\\Form1.cs",
-              "RelativeDocumentMoniker": "cancha\\Form1.cs",
-              "ToolTip": "C:\\Users\\Selene\\Documents\\GitHub\\tpmambrinialanjere\\mambriani\\cancha\\cancha\\Form1.cs",
-              "RelativeToolTip": "cancha\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAMwAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T00:04:10.49Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "GestorConexion.cs",
               "DocumentMoniker": "C:\\Users\\Selene\\Documents\\GitHub\\tpmambrinialanjere\\mambriani\\cancha\\cancha\\GestorConexion.cs",
               "RelativeDocumentMoniker": "cancha\\GestorConexion.cs",
               "ToolTip": "C:\\Users\\Selene\\Documents\\GitHub\\tpmambrinialanjere\\mambriani\\cancha\\cancha\\GestorConexion.cs",
               "RelativeToolTip": "cancha\\GestorConexion.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAwwDcAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T00:30:51.806Z"
+              "WhenOpened": "2025-11-13T00:04:56.907Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Selene\\Documents\\GitHub\\tpmambrinialanjere\\mambriani\\cancha\\cancha\\Form1.cs",
               "RelativeDocumentMoniker": "cancha\\Form1.cs",
               "ToolTip": "C:\\Users\\Selene\\Documents\\GitHub\\tpmambrinialanjere\\mambriani\\cancha\\cancha\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "cancha\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T23:45:39.633Z",
+              "WhenOpened": "2025-11-13T00:04:37.4Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]

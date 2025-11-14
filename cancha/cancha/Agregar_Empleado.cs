@@ -16,5 +16,10 @@ namespace cancha
         {
             InitializeComponent();
         }
+
+        private void LblTituloCliente_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
