@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "bE3y9ABSCGc=",
+  "dgSpecHash": "0CrUC9nyM64=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Selene\\Documents\\GitHub\\tpmambrinialanjere\\mambriani\\cancha\\cancha\\cancha.csproj",
+  "projectFilePath": "C:\\Users\\alans\\Documents\\mambriani\\cancha\\cancha\\cancha.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Selene\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.8\\microsoft.data.sqlite.core.9.0.8.nupkg.sha512",
-    "C:\\Users\\Selene\\.nuget\\packages\\sqlitepclraw.core\\2.1.10\\sqlitepclraw.core.2.1.10.nupkg.sha512",
-    "C:\\Users\\Selene\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+    "C:\\Users\\alans\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.8\\microsoft.data.sqlite.core.9.0.8.nupkg.sha512",
+    "C:\\Users\\alans\\.nuget\\packages\\sqlitepclraw.core\\2.1.10\\sqlitepclraw.core.2.1.10.nupkg.sha512",
+    "C:\\Users\\alans\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
   ],
   "logs": []
 }
